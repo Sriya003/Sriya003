@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sriya003/Sriya003](https://github.com/Sriya003/Sriya003)
 
-- Eduacation [B.tech CSE](B.tech CSE)
+-   Eduacation (B.tech CSE)
 
 - 💬 Ask me about **DSA Java ,Full -Stack Development**
 
