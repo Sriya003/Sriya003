@@ -11,7 +11,7 @@
 
 -   Eduacation (B.tech CSE)
 
-- 💬 Ask me about **DSA Java ,Full -Stack Development**
+- 💬 Ask me about **DSA Java ,Web Development**
 
 - 📫 How to reach me **mohapatrosriya123@gmail.com**
 
