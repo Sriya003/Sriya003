@@ -11,7 +11,7 @@
 
 -   Eduacation (B.tech CSE)
 
-- 💬 Ask me about **DSA Java ,Web Development**
+- 💬 Ask me about **Cloud Computing,AWS,Computer Networking**
 
 - 📫 How to reach me **mohapatrosriya123@gmail.com**
 
